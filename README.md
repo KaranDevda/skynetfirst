@@ -3,3 +3,4 @@
 ## this was my first lecture
 ## this is my first code to push in git hub
 ## hell word
+## print out
